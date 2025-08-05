@@ -1,0 +1,3 @@
+- Publication_Certificate.jpeg was obtained after the paper was published.
+- Research_Paper.pdf is the document in which we wrote the paper.
+- Research_Publication.pdf is the version we received after the paper was officially published.
